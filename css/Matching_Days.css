@@ -1,0 +1,126 @@
+html{
+  background-color:#001f3f;
+  margin: auto;
+}
+.container{
+  text-align: center;
+  background-color: #3D9970;
+  height: 600px;
+  width: 700px;
+}
+p{
+  font-size: 32;
+}
+table:vertical-alignment{
+    border-collapse:separate;
+    border-spacing:solid 3px;
+    vertical-align: inherit;
+    text-align: center;
+    width: 700px;
+    height: 40px
+  }
+  td{
+    text-align:center;
+   vertical-align:top;
+}
+.days{
+  transform:rotate(-45,0deg);
+}
+
+
+.myInputs{
+  background-color: rgb(100%, 0%, 0%);
+  background-color: cornflowerblue;*/
+
+   /*margin: 10px;*/
+margin-top: 5em;
+margin-bottom: 5em;
+background-position: center;
+border-radius:30px;
+text-align: center;
+padding: 2px 6px 4px 6px;
+font-size: 24px;
+font-weight: bold;
+font-variant: normal;
+
+}
+input{
+margin-top: 5em;
+border-radius: 25px;
+text-align: center;
+width: 200px;
+height: 30px;
+font-weight:bold;
+}
+h1{
+  background-color: #85144b;
+  width:700px;
+  text-align: center;
+ font-family: Helvetica, arial, sans-serif;
+ font-weight: bold;
+ text-transform: capitalize;
+ letter-spacing: 0px;
+ font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-shadow: 0px 2px 3px;
+ line-height: 1.4em;
+ letter-spacing: 2px;
+ font-weight: normal;
+ font-style: normal;
+ /*background-color:rgb(139, 96, 108);*/
+ text-shadow: 0px 2px 3px;
+
+ }
+}
+#boxModel{
+  /*background-color: #777;*/
+  width: 700px;
+  height: 150px;
+  margin-bottom: 5em;
+  text-align: center;
+}
+table {
+  overflow: hidden;
+  margin-top: 5em;
+  text-align:center;
+  width: 700px;
+  height: 80px;
+
+
+}
+.days {
+  transform: rotate(-45,0deg);
+  tr
+}
+
+td:hover {
+  background-color: #ffa;
+  font-family: "Helvetica Neue", "Arial", "sans-serif";
+  font-weight: bold;
+
+}
+.style1{
+  background-color: red;
+}
+.style2{
+  background-color: green;
+}
+.style3{
+  background-color: blue;
+
+}
+/*ul{
+  width: 760px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  border-top: 1px solid #ccc;
+}
+li {
+  line-height: 1.5em;
+  border-bottom: 1px solid #ccc;
+  float: left;
+  display: inline;
+}
+#columns li {
+  width: 50%;
+}
+}*/
